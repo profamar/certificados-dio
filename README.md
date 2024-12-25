@@ -6,7 +6,7 @@ Este repositório foi criado para organizar e compartilhar todos os certificados
 
 Aqui estão alguns dos certificados obtidos:
 
-- [Certificado de Algoritmo e Aprendizado de Máquina](https://github.com/profamar/certificados-dio/blob/ebb7d50f12f46dcdbafbcce911f578c5c54c7979/certificado_algoritmo%20e%20aprendizado%20de%20maquina.pdf)
+- [Certificado de Algoritmo e Aprendizado de Máquina](https://www.dio.me/certificate/2AGVVWIT/share).
 - [Certificado de Aplicações Práticas da Inteligência Artificial](certificados/certificado_aplicações%20práticas%20da%20inteligência%20artificial.pdf)
 - [Certificado de Introdução à Inteligência Artificial](certificados/certificado_introdução%20a%20inteligência%20artificial.pdf)
 - [Certificado de O que são IAs Generativas](certificados/certificado_o%20que%20são%20IAs%20generativas.pdf)
