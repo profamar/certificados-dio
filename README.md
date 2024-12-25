@@ -14,5 +14,8 @@ Aqui estão alguns dos certificados obtidos:
 
 - [Certificado de Fundamentos de Inteligência Artificial](https://www.dio.me/certificate/GNLTOZRT/share).
 
-
+## Cursos
  
+- [Certificado de Projetos ágeis com SCRUM](https://www.dio.me/certificate/CB0GELVV/share).
+
+- [Certificado de Introdução à Programação e Pensamento Computacional](https://www.dio.me/certificate/9NS7QWQN/share).
