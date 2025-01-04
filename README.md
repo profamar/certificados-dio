@@ -5,6 +5,7 @@ Este repositório organiza e compartilha meus certificados conquistados na DIO, 
 ## Bootcamps
 
 - [Certificado de Bootcamp Microsoft Copilot AI](https://www.dio.me/certificate/NYAUM9M3/share).
+- [Certificado de Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3](https://www.dio.me/certificate/EL9KDLFM/share).
 
 ## Formações
 
