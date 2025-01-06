@@ -12,6 +12,7 @@ Este repositório organiza e compartilha meus certificados conquistados na DIO, 
 - [Certificado de Formação Fundamentos de Inteligência Artificial](https://www.dio.me/certificate/GNLTOZRT/share).
 - [Certificado de Formação Scrum Master](https://www.dio.me/certificate/WEE9TNA7/share).
 - [Certificado de Formação Python Fundamentals](https://www.dio.me/certificate/LVWRXRRV/share).
+- [Certificado de Formação Github Certification](https://www.dio.me/certificate/9U6NERRA/share).
 
 ## Cursos
  
