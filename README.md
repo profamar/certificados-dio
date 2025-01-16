@@ -1,8 +1,8 @@
 ![Capa do Repositório - Certificados da DIO](https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn)  
 
 🌟 **Certificados da DIO**  
-Este repositório organiza e compartilha meus certificados conquistados na DIO, refletindo meu aprendizado em tecnologia, desenvolvimento de software e habilidades técnicas adquiridas.  
 
+Este repositório organiza e compartilha meus certificados conquistados na DIO, refletindo meu aprendizado em tecnologia, desenvolvimento de software e habilidades técnicas adquiridas.  
 
 ## 🌟👨‍💻👩‍💻🌟 Programa de Embaixadores Universitários da DIO
 - [Certificado de Participação da 10a. Turma do DIO CAMPUS EXPERT](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:89f8f9f7-f2c6-421c-bf7d-629ce9f62708).
