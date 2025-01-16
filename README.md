@@ -1,4 +1,4 @@
-![Capa do Repositório - Certificados da DIO](https://web.dio.me/home)  
+![Capa do Repositório - Certificados da DIO](https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn)  
 
 🌟 **Certificados da DIO**  
 Este repositório organiza e compartilha meus certificados conquistados na DIO, refletindo meu aprendizado em tecnologia, desenvolvimento de software e habilidades técnicas adquiridas.  
