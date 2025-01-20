@@ -13,6 +13,7 @@ Este repositório organiza e compartilha meus certificados conquistados na DIO, 
 - [Certificado de Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3](https://www.dio.me/certificate/EL9KDLFM/share).
 - [Certificado de Bootcamp Microsoft AI for Tech - GitHub Copilot](https://www.dio.me/certificate/VIHUC6IN/share).
 - [Certificado de Bootcamp GFT Start #6 - Lógica de Programação](https://www.dio.me/certificate/O1LVRCQP/share).
+- [Certificado de Bootcamp Microsoft AI for Tech – Criando Prompts Inteligentes](https://www.dio.me/certificate/3XTXNSVX/share).
  
 ## 🎓 Formações
 
@@ -29,4 +30,4 @@ Este repositório organiza e compartilha meus certificados conquistados na DIO, 
 - [Certificado do Curso Introdução ao Big Data e Hadoop](https://www.dio.me/certificate/DLPH51BI/share).
 
 ## 🤝 Agradecimentos
-Agradecemos à comunidade de desenvolvedores da DIO e aos nossos mentores por todo o suporte durante o desenvolvimento dos bootcamps, formações e cursos. 
+Agradeço à comunidade de desenvolvedores da DIO e aos nossos mentores por todo o suporte durante o desenvolvimento dos bootcamps, formações e cursos. 
