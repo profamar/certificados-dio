@@ -29,5 +29,6 @@ Este repositório organiza e compartilha meus certificados conquistados na DIO, 
 - [Certificado do Curso Introdução à Programação e Pensamento Computacional](https://www.dio.me/certificate/9NS7QWQN/share).
 - [Certificado do Curso Introdução ao Big Data e Hadoop](https://www.dio.me/certificate/DLPH51BI/share).
 
+
 ## 🤝 Agradecimentos
 Agradeço à comunidade de desenvolvedores da DIO e aos nossos mentores por todo o suporte durante o desenvolvimento dos bootcamps, formações e cursos. 
